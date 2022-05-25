@@ -256,10 +256,8 @@ public class PlotMyAddress {
 }//end of class
 
 
-//NOTICE: This class is copies from an external source
-//source link: https://stackoverflow.com/questions/7265833/how-to-serialize-and-deserialize-a-json-object-from-google-geocode-using-java
-//Answer:2
-//Author: Smile2Life
+
+
 class GoogleGeoCodeResponses {
 public String status;
 public results[] results;
